@@ -1,22 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,20,24&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
-
 ### 👋 Hi, my name is Ilya.
-
-C++ developer. 
-Business-analyst in the past.
-
-#
-### 🛠️ Languages and Tools
-
- 
-| Language / Tool       | How I use it                | 
-| --------------------- | --------------------------- |
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Camunda.jpg" height="60" width="120">|Process Analysis <br/> Process Design||
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Miro.jpg" height="60" width="120">|Process Design <br/> Presentation to show process flow or user flow||
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Python.png" height="60" width="120"> <br/> <img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/1a496f0d555be8ac30ae1414d51503ac0fb66adc/assets/Jupyter.png" height="40" width="60"><img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/1a496f0d555be8ac30ae1414d51503ac0fb66adc/assets/PyCharm.png" height="40" width="60">|Exploratory data analysis <br /> Hypothesis testing <br /> Building optimization models <br /> Building ML models 
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/main/assets/Visual%20Studio.png" height="60" width="120">|С++ Applications||
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Confluence.png" height="60" width="120">|Documentation||
-
 
 #
 ### 📜 Certifications 
