@@ -1,6 +1,3 @@
-### 👋 Hi, my name is Ilya.
-
-#
 ### 📜 Certifications 
 - [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/professional-cert/YU5G86C8WQ5M) @ Coursera
 - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/ZX7HYKXG3UC5) @ Coursera
